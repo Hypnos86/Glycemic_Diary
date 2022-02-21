@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/white_death" />
+      <excludeFolder url="file://$MODULE_DIR$/sugar" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (Glycemic_Diary)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (Glycemic_Diary)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
